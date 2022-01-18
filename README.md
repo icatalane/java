@@ -1,2 +1,2 @@
 # java
-Projects done during the semester with Java
+Projects done during a semester with Java at UOC
